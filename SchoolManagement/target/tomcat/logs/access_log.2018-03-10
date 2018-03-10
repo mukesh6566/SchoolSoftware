@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:21:05:24 +0545] "GET /School HTTP/1.1" 302 - http-bio-8081-exec-1 0
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:21:05:24 +0545] "GET /School/ HTTP/1.1" 200 341 http-bio-8081-exec-2 704
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:21:05:29 +0545] "GET /School/admin/form HTTP/1.1" 200 406 http-bio-8081-exec-3 322
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:22:08:14 +0545] "GET /School HTTP/1.1" 302 - http-bio-8081-exec-1 0
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:22:08:14 +0545] "GET /School/ HTTP/1.1" 200 341 http-bio-8081-exec-2 41
+0:0:0:0:0:0:0:1 - - [10/Mar/2018:22:08:19 +0545] "GET /School/admin/form HTTP/1.1" 200 406 http-bio-8081-exec-3 49
